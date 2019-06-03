@@ -1,0 +1,4 @@
+{
+  "relativePaths": true,
+  "includePaths": ["node_modules"]
+}
