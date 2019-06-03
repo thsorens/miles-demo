@@ -1,14 +1,16 @@
-## Miles demo
+# Miles demo
 
 ```
 yarn install
 ```
 
+or
+
 ```
 npm install
 ```
 
-# Run
+### Run
 
 ```
 yarn dev
